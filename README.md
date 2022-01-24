@@ -2,7 +2,7 @@
 
 Decimal to Binary Converter
 
-Evklid 
+Evklid Recurssive
 
 Simple Balanced Brackets 
 
